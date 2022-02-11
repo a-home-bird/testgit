@@ -6,4 +6,5 @@ class test(object):
         print(run)
         pass
     def jump(self,jump):
+        print(jump)
         pass
