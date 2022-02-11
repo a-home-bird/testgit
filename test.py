@@ -3,6 +3,7 @@ class test(object):
         
         pass
     def run(self,run):
+        print(run)
         pass
     def jump(self,jump):
         pass
